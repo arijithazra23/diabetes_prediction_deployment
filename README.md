@@ -13,7 +13,7 @@ diabetes_prediction_webapp
 diabetes_prediction_localhost_image.png --> setup necessary for local deployment 
 
 
-Steps for Deployment
+### Steps for Deployment using Anaconda cli
 
 (base) C:\Users\ariji>cd cd <<C:\work\....>>(path of webapp.py file)
 The filename, directory name, or volume label syntax is incorrect.
